@@ -1,4 +1,4 @@
-# DesarrolloFrontend-Material
+# desarrollo-frontend-material-clase
 
 Repositorio con material de la clase de desarrollo frontend para los alumnos de ISI de la Unison del semestre 2023-2
 
